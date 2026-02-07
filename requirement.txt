@@ -1,0 +1,9 @@
+tensorflow
+yfinance
+numpy
+pandas
+scikit-learn
+statsmodels
+optuna
+shap
+matplotlib
